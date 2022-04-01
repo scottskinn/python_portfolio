@@ -678,6 +678,7 @@ footer {
   margin-top: auto;
   width: 100%;
   text-align: center;
+  margin-bottom: 0;
 }
 blockquote .small,
 blockquote footer,

@@ -1,1 +1,4 @@
 .vscode
+database.csv
+database.txt
+node_modules
