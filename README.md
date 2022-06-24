@@ -1,22 +1,14 @@
+# Portfolio for [Scott Skinn](http://scott2n.pythonanywhere.com/)
 
-# Portfolio
-
-## Table of Contents
-
-- [Description](#description)
-- [Usage](#usage)
-- [License](#license)
-- [Questions](#questions)
+![Github badge](https://img.shields.io/badge/Github-scottskinn-blue.svg)
 
 ## Description
 
-My personal web portfolio
+This is a site that show cases some of my projects I am currently pursuing a career in web development.
 
 Portfolio made from Udemy's Complete Python Developer - Zero to Mastery course
 
-[![Udemy badge](https://img.shields.io/badge/Udemy%20-%20Complete%20Python%20Developer-Zero%20to%20Mastery-blue.svg)](https://www.udemy.com/user/scottskinn/)
-
-![Github badge](https://img.shields.io/badge/Github-scottskinn-blue.svg)
+## built With
 
 ## Usage
 
@@ -24,14 +16,19 @@ Visit site:  <http://scott2n.pythonanywhere.com/>
 
 ## License
 
-  ![Github license](https://img.shields.io/badge/licence-MIT-blue.svg)
+![Github license](https://img.shields.io/badge/licence-MIT-blue.svg)
 
 ## Questions
 
-[scottskinn](https://github.com/scottskinn/)
+Feel free to reach out to me at anytime.
 
-[scottskinn2n@hotmail.com](mailto:scottskinn2n@hotmail.com)
+Github: [scottskinn](https://github.com/scottskinn/)
 
-## Attribution/ Credits
+Email: [scottskinn2n@hotmail.com](mailto:scottskinn2n@hotmail.com)
 
-<a href="https://imageresizer.com" target="_blank">Image Resizer</a>
+## Contributing
+
+This project was build with the help from [Zero to Mastery](https://github.com/zero-to-mastery).
+
+Instructor:
+[Andrei Neagoie](https://www.udemy.com/user/andrei-neagoie/)
