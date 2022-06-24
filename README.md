@@ -4,11 +4,13 @@
 
 ## Description
 
-This is a site that show cases some of my projects I am currently pursuing a career in web development.
+This is a site that show cases some of my projects. I am currently pursuing a career in web development as a Frontend Developer.
 
-Portfolio made from Udemy's Complete Python Developer - Zero to Mastery course
+## Built With
 
-## built With
+- JavaScript
+- Python
+- Flask
 
 ## Usage
 
