@@ -12,9 +12,13 @@ This is a site that show cases some of my projects. I am currently pursuing a ca
 - Python
 - Flask
 
-## Usage
+## Installation
 
-Visit site:  <http://scott2n.pythonanywhere.com/>
+For you to be able to start the server from your computer, run these steps in your command line:
+
+1. export FLASK_APP=server.py
+2. export FLASK_ENV=development
+3. py -m flask run
 
 ## License
 
